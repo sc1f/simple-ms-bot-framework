@@ -1,0 +1,26 @@
+{
+  "name": "simple-microsoft-bot-framework-example",
+  "version": "1.0.0",
+  "description": "a simple, opinionated example of a ms bot framework bot in node.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:sc1f/simple-ms-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "git@github.com:sc1f/simple-ms-bot.git"
+  },
+  "homepage": "git@github.com:sc1f/simple-ms-bot.git",
+  "dependencies": {
+    "botbuilder": "^3.8.4",
+    "q": "^1.5.0",
+    "request": "^2.81.0",
+    "restify": "^5.0.0",
+    "xml2js": "^0.4.17"
+  }
+}
